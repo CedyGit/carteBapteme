@@ -1,0 +1,36 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.main-header{
+		margin-top: 20px
+}
+h3 {
+    font-family: cursive;
+    color: maroon;
+}
+form.form-inline {
+    margin-left: 102px;
+}
+i.bi.bi-cart-fill {
+    margin-left: 37px;
+    font-size: xx-large;
+}
+.bouton {
+    margin-left: 42px;
+}
+/*menu*/
+.menubar{
+	
+	height: 60px;
+	background: #ffc107;
+}
+
+
+
+
+
+
+
+
+
